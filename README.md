@@ -35,3 +35,22 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## Getting Started.
+
+* Clone the repo
+* Make sure ruby(2.4.x) and bundler are installed
+* Install dependencies
+
+```sh
+$ bundle install
+```
+
+* See the changes locally
+
+```sh
+$ bundle exec jekyll serve
+```
+
+* Application will be started on http://localhost:4000/
