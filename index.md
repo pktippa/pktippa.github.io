@@ -13,6 +13,9 @@ Projects worked so far including the languages/technologies
 * NodeJS
 * Java
 * Android
+* Python
+* Amazon Web Services
+* Docker
 
 Languages known
 
