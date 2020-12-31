@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e6780733b35b88cf461402d4dab4427",
+    "revision": "6aff2bc75f736f9c2f0fdb5cc4ee77f7",
     "url": "/index.html"
   },
   {
-    "revision": "8b4a4b1f45140ae8bb2b",
+    "revision": "fd275bb0ef3b290c4b66",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "61dc9804fba66f361329",
+    "revision": "8bb7394f72cd3979a165",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "ef2ec128e40fbe3e027b",
+    "revision": "523d8a41b2980ee873c3",
     "url": "/static/css/main.af23b6d0.chunk.css"
   },
   {
-    "revision": "156edabce610018f542c",
-    "url": "/static/js/2.35731d87.chunk.js"
+    "revision": "ff3fb769301c6e3309f3",
+    "url": "/static/js/2.1148083c.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.35731d87.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1148083c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b4a4b1f45140ae8bb2b",
-    "url": "/static/js/3.e77293e8.chunk.js"
+    "revision": "fd275bb0ef3b290c4b66",
+    "url": "/static/js/3.68822756.chunk.js"
   },
   {
-    "revision": "61dc9804fba66f361329",
-    "url": "/static/js/4.2acf421b.chunk.js"
+    "revision": "8bb7394f72cd3979a165",
+    "url": "/static/js/4.7c985f4a.chunk.js"
   },
   {
-    "revision": "ef2ec128e40fbe3e027b",
-    "url": "/static/js/main.ca69bbb9.chunk.js"
+    "revision": "523d8a41b2980ee873c3",
+    "url": "/static/js/main.ca862372.chunk.js"
   },
   {
-    "revision": "a6ff40c3ee41bf38a212",
-    "url": "/static/js/runtime-main.584ebf9a.js"
+    "revision": "6a713e70f6a17d2f1ed7",
+    "url": "/static/js/runtime-main.9f45d2aa.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
-  },
-  {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
