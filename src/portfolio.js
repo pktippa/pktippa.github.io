@@ -64,7 +64,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: 'Python',
-      fontAwesomeClassname: 'fab fa-js',
+      fontAwesomeClassname: 'fab fa-python',
     },
     {
       skillName: 'reactjs',
@@ -101,8 +101,8 @@ const educationInfo = {
       subHeader: 'Bachelor of Technologu in Electrical and Electronics Engineering',
       duration: 'September 2006 - April 2010',
       desc:
-        'Ranked top 2% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolor sit amet, consectetur adipiscing elit'],
+        'Ranked top 2% in the program. Completed minors in Software Engineering with C and C++ programming languages.',
+      descBullets: ['Awarded as  overall performer of graduation batch 2010'],
     },
   ],
 };
@@ -138,20 +138,20 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Software Engineer',
-      company: 'Facebook',
-      companylogo: require('./assets/images/facebookLogo.png'),
+      role: 'Senior Software Engineer',
+      company: 'Banyan Nation',
+      companylogo: require('./assets/images/Banyan_Logo.gif'),
       date: 'June 2018 – Present',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'Worked at Banyan Nation',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        'Implemented Tracebility engine',
+        'Integrated Google Map to show the aggregation views',
       ],
     },
     {
-      role: 'Front-End Developer',
-      company: 'Quora',
+      role: 'Member Technical Staff',
+      company: 'EdgeVerve',
       companylogo: require('./assets/images/quoraLogo.png'),
       date: 'May 2017 – May 2018',
       desc:
