@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6aff2bc75f736f9c2f0fdb5cc4ee77f7",
+    "revision": "59a47b29d80e30d33a06507b2eb4d587",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "523d8a41b2980ee873c3",
+    "revision": "80d2bdc701611ec6acdd",
     "url": "/static/css/main.af23b6d0.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.7c985f4a.chunk.js"
   },
   {
-    "revision": "523d8a41b2980ee873c3",
-    "url": "/static/js/main.ca862372.chunk.js"
+    "revision": "80d2bdc701611ec6acdd",
+    "url": "/static/js/main.12a75111.chunk.js"
   },
   {
     "revision": "6a713e70f6a17d2f1ed7",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
