@@ -165,6 +165,15 @@ const workExperiences = {
         'Worked at Infosys',
       isRectangle: true,
     },
+    {
+      role: 'Software Engineer',
+      company: 'HCL Technologies',
+      companylogo: require('./assets/images/hcl_logo.png'),
+      date: 'July 2010 – Jan 2013',
+      desc:
+        'Worked at HCL Technologies',
+      isRectangle: true,
+    },
   ],
 };
 
