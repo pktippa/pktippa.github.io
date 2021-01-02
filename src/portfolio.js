@@ -26,7 +26,6 @@ const socialMediaLinks = {
   github: 'https://github.com/pktippa',
   linkedin: 'https://www.linkedin.com/in/pktippa/',
   gmail: 'pktippa@gmail.com',
-  gitlab: 'https://gitlab.com/saadpasta',
   stackoverflow: 'https://stackoverflow.com/users/3629379/pktippa',
   // Instagram and Twitter are also supported in the links!
   display: true, // Set true to display this section, defaults to false
@@ -96,10 +95,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: 'Koneru Lakshmaiah University',
-      logo: require('./assets/images/stanfordLogo.png'),
+      schoolName: 'Koneru Lakshmaiah College Of Engineering',
+      logo: require('./assets/images/klce.jpg'),
       subHeader: 'Bachelor of Technologu in Electrical and Electronics Engineering',
-      duration: 'September 2006 - April 2010',
+      duration: 'July 2006 - April 2010',
       desc:
         'Ranked top 2% in the program. Completed minors in Software Engineering with C and C++ programming languages.',
       descBullets: ['Awarded as  overall performer of graduation batch 2010'],
@@ -141,7 +140,7 @@ const workExperiences = {
       role: 'Senior Software Engineer',
       company: 'Banyan Nation',
       companylogo: require('./assets/images/Banyan_Logo.gif'),
-      date: 'June 2018 – Present',
+      date: 'July 2018 – Present',
       desc:
         'Worked at Banyan Nation',
       descBullets: [
@@ -152,18 +151,19 @@ const workExperiences = {
     {
       role: 'Member Technical Staff',
       company: 'EdgeVerve',
-      companylogo: require('./assets/images/quoraLogo.png'),
-      date: 'May 2017 – May 2018',
+      companylogo: require('./assets/images/edgeverve_logo.png'),
+      date: 'May 2017 – June 2018',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'Worked At EdgeVerve',
     },
     {
-      role: 'Software Engineer Intern',
-      company: 'Airbnb',
-      companylogo: require('./assets/images/airbnbLogo.png'),
-      date: 'Jan 2015 – Sep 2015',
+      role: 'Senior Sysmtes Engineer',
+      company: 'Infosys',
+      companylogo: require('./assets/images/infosys_logo.jpg'),
+      date: 'Jan 2013 – June 2014',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'Worked at Infosys',
+      isRectangle: true,
     },
   ],
 };
@@ -193,7 +193,7 @@ const bigProjects = {
       link: 'http://nextu.se/',
     },
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -202,7 +202,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji('Achievements And Certifications 🏆 '),
   subtitle:
-    'Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !',
+    'Achievements, Certifications and Some Cool Stuff that I have done !',
 
   achievementsCards: [
     {
@@ -255,7 +255,7 @@ const achievementSection = {
       ],
     },
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -280,7 +280,7 @@ const blogSection = {
         'React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.',
     },
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -299,7 +299,7 @@ const talkSection = {
       event_url: 'https://www.facebook.com/events/2339906106275053/',
     },
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -320,13 +320,13 @@ const contactInfo = {
   subtitle:
     'Discuss a project or want to hire? My Inbox is open for all.',
   number: '+91-9538009470',
-  emailAddress: 'saadpasta70@gmail.com',
+  emailAddress: 'pktippa@gmail.com',
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: 'twitter', //Replace "twitter" with your twitter username without @
+  userName: 'pktippa', //Replace "twitter" with your twitter username without @
   display: true, // Set true to display this section, defaults to false
 };
 

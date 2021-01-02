@@ -4,7 +4,7 @@ env:
   REACT_APP_GITHUB_TOKEN: ${{ secrets.OPEN_SOURCE_TOKEN }} # Use the generated personal access token and add it to repository secrets with the name OPEN_SOURCE_TOKEN
 on:
   release:
-    types: # This configuration does not affect the page_build event above
+    types:
       - created
 jobs:
   build-and-deploy:

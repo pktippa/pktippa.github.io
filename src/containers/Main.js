@@ -47,15 +47,15 @@ export default class Main extends Component {
           <StackProgress />
           <Education />
           <WorkExperience />
-          <Projects />
-          <StartupProject />
-          <Achievement />
-          <Blogs />
-          <Talks />
+          {/* <Projects /> */}
+          {/* <StartupProject /> */}
+          {/* <Achievement /> */}
+          {/* <Blogs /> */}
+          {/* <Talks /> */}
           <Twitter />
-          <Podcast />
+          {/* <Podcast /> */}
           <Profile />
-          <Footer />
+          {/* <Footer /> */}
           <Top />
         </StyleProvider>
       </div>
